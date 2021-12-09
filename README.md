@@ -1,7 +1,7 @@
-- 👋 Merhaba, adım Cemal
+- 👋 Merhaba, adım Cemal..
 - 👀 Okuyorum + Araştırıyorum + Öğreniyorum
 - 🌱 Matematik ile sohbet etmeyi seviyorum.
-- 💞️ Hayal etmeyi seviyorum
+- 💞️ Hayal etmeyi seviyorum.
 - 📫 Bana buradan ulaşabilirsiniz: https:twitter.com/Cemalbsrgn
 
 <!---
